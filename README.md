@@ -46,7 +46,9 @@ constraint.
      * The whole map is navigable for the player. The race track are customizable. The player can decide the
 number of laps the length. 
   * Cars
+      * There will be atleast 2(maximum 4) cars which can be selected from the menu.
   * Specials
+      * The track will be scattered with special abilites and power up which can be activated by driving over them. The special abilities will only available to the players after 30 seconds of gameplay 
   * Music or SFX
   * GFX
   * Sprites
