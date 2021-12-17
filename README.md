@@ -55,7 +55,7 @@ number of laps the length.
  ### Tools / Platform, Hardware and Software Requirements:
    
    * Unity and Unity Hub essential for the progress of this project
-   * Photoshop would be used to modify sprites
+   * Photoshop is be used to modify sprites
    * Blender asset may or may not be used depending on ease of access and taking into consideration whether it is
 possible to incorporate them in to the app.
   *  Some sound mixers and open source sprites, music, sfx will be used.
