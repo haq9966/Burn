@@ -1,6 +1,6 @@
-# **Burn**
+# Burn
 
-This is the github repository for mini project of my MCA(2020-2021) course under KTU.
+This is the github repository for mini project of my MCA(2020-2021) course under KTU. The aim of the project is create a racing game titled *Burn* with the help of Unity.
 
 ### Introduction:
 
