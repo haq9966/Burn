@@ -1,6 +1,6 @@
 # Burn
 
-    * This is the github repository for mini project of my MCA(2020-2021) course under KTU. The aim of the project is create a racing game titled **Burn** with the help of Unity.
+This is the github repository for mini project of my MCA(2020-2021) course under KTU. The aim of the project is create a racing game titled **Burn** with the help of Unity.
 
 ### Introduction:
 
@@ -43,7 +43,7 @@ will also try to add an in-app purchasing system for game currency.
 There will be an intuitive UI. The depth and count of the following features would be determined by the time
 constraint.
   * Maps
-    * The whole map is navigable for the player. The race track are customizable. The player can decide the
+  * The whole map is navigable for the player. The race track are customizable. The player can decide the
 number of laps the length. 
   * Cars
   * Specials
